@@ -20,14 +20,13 @@
 
 > :Title shadow=0 0 8px black, color=white
 >
-> Sample Blog Post
+> First Blog Post
 
 > :Author src=github
 
 <br>
 
-So this is the content of this sample blog post. For a new blogpost, just copy the contents of \
-`posts/sample-blog-post.md` and get started quickly!
+I will fill this soon with some stuff!
 
 ---
 
