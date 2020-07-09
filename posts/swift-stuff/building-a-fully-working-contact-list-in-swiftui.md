@@ -26,25 +26,6 @@
 
 <br>
 
-## Structure
-**Overview**
-
-1.	Why this guide exists
-2.	App structure, capabilities
-
-**Technical**
-
-3.	Fetching contacts, own model (for what?)
-4.	Main view (all contacts, ordered)
-5.	Creating a new contact
-6.	Detail view and editing a contact
-
-**Conclusion**
-
-7.	Quick summary what we did
-8.	Forward looking: more labels, pulling in images
-
-
 ## 1. Why this exists
 In a recent project, I needed to build a contact list which displays all system contacts. While this wasn’t too hard to achieve, I had to incorporate a lot of stuff I have only learned about then, as I’m still relatively new to building iOS apps. The existing guides were either still for mainly UIKit based apps or only covered the basics.
 
@@ -540,7 +521,7 @@ As before, we almost get all the heavy-lifting for free thanks to the vast capab
 ## 7. Summary
 What? Already done?
 
-Yes, we've built all the stuff needed for a fully working [contact list](), [editing capabilities] and a [detail view] that you can pull into your app! Even if you have different use cases, it's not too much effort to adapt, as we did all the groundwork needed!
+Yes, we've built all the stuff needed for a fully working [contact list](#42-view), [editing capabilities](#51-editcontactview-some-more-uikit-interfacing) and a [detail view](#6-contact-details-view) that you can pull into your app! Even if you have different use cases, it's not too much effort to adapt, as we did all the groundwork needed!
 
 ## 8. Building forward...
 There's some stuff left we could pull into to make our contact list even more useful.
@@ -554,6 +535,8 @@ Some of those improvements include:
 Let's see, I may come back with some posts on how to do those things 😉
 
 **Happy hacking!**
+
+Got any thoughts, improvements or comments? Feel free to reach out to me on [hey@timweiss.net](mailto:hey@timweiss.net?subject=Contact%20List%20in%20SwiftUI)! I'd love to hear what you think of this post!
 
 
 ---
