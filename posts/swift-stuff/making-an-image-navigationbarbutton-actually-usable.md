@@ -92,6 +92,7 @@ With the `BarButtonModifier` done, we can finally apply it to our `Image`:
         Image(systemName: "person.crop.circle.badge.plus")
             .modifier(BarButtonModifier())
     }
+)
 ```
 
 Now, our button has a way larger area, making it easier to tap:
