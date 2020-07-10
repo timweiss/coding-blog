@@ -1,19 +1,19 @@
-> :Hero src=/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-large-light.png,
+> :Hero src=https://tims.coding.blog/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-large-light.png,
 >       mode=light,
 >       target=desktop,
 >       leak=156px
 
-> :Hero src=/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-small-light.png,
+> :Hero src=https://tims.coding.blog/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-small-light.png,
 >       mode=light,
 >       target=mobile,
 >       leak=96px
 
-> :Hero src=/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-large-dark.png,
+> :Hero src=https://tims.coding.blog/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-large-dark.png,
 >       mode=dark,
 >       target=desktop,
 >       leak=156px
 
-> :Hero src=/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-small-dark.png,
+> :Hero src=https://tims.coding.blog/img/posts/swift-stuff/building-a-fully-working-contact-list-in-swiftui/contactlist-small-dark.png,
 >       mode=dark,
 >       target=mobile,
 >       leak=96px
