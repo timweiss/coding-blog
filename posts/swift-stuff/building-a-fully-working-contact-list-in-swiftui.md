@@ -487,7 +487,7 @@ struct ContactDetailView: View {
             
             Section() {
                 ForEach(viewModel.contact.numbers, id: \.number) { number in // --> here, we display all the numbers we got
-                    Button(action: { /* do something */ ); self.modalToggle = false  }) {
+                    Button(action: { /* do something */ }) {
                         VStack(alignment: .leading, spacing: 5) {
                             Text(number.label)
                                 .font(.system(.subheadline))
