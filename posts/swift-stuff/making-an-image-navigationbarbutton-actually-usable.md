@@ -94,7 +94,7 @@ With the `BarButtonModifier` done, we can finally apply it to our `Image`:
     }
 ```
 
-Now, our button has a way larger are, making it easier to tap:
+Now, our button has a way larger area, making it easier to tap:
 
 ![Solution: Button with bigger footprint](/img/posts/swift-stuff/making-an-image-navigationbarbutton-actually-usable/better.png)
 
