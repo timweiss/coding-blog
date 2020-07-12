@@ -99,5 +99,9 @@ Now, our button has a way larger area, making it easier to tap:
 
 ![Solution: Button with bigger footprint](/img/posts/swift-stuff/making-an-image-navigationbarbutton-actually-usable/better.png)
 
+**Consideration**
+I have also tried to `.offset` the button with `.padding(.horizontal, 20)` instead, but the padding outside the `navigationBarItems` container is still getting clipped this way. If you have found a better way to deal with this issue, please let me know!
+
+
 
 **That's it!** Thank you for reading this post! Feel free to reach out to me on [hey@timweiss.net](mailto:hey@timweiss.net?subject=Contact%20List%20in%20SwiftUI)! I'd love to hear what you think of this post!
