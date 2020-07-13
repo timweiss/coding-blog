@@ -11,7 +11,9 @@
 >
 > Tim's Coding Blog
 
-Stay tuned for some exciting content on Swift, Software Development in general and more!
+Hey, I'm [Tim](https://timweiss.net). I'm working in tech for a pretty cool startup and spend some of my free time building iOS apps and websites. Some of them never saw the light of day and other products are really working out great. This blog is a place to share my thoughts on software, building products and also practical experiences building those projects (and real products). Hopefully, you'll find some of those posts helpful.
+
+In case you want to message me, feel free to reach out on [Twitter](https://twitter.com/supplyanddem) or shoot me an [email](mailto:hey@timweiss.net)!
 
 ---
 # Swift Stuff
